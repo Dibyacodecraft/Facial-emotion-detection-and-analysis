@@ -1,0 +1,13 @@
+
+---
+
+ 📦 requirements.txt
+
+```txt
+opencv-python
+numpy
+pandas
+pyttsx3
+tensorflow
+scikit-learn
+mediapipe
